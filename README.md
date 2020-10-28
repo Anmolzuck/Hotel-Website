@@ -1,3 +1,3 @@
-# Hotel Website
+# Hotel Website 🍽️
 
-Build using HTML5, CSS3 and JavaScript ✌️
+Build using HTML5, CSS3 and JavaScript
